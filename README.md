@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/csta-2019/blog/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+---
+<ul> <li>item 1 </li>
+  <li> item 2 </li>
+  </ul>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
